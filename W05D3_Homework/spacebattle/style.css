@@ -1,0 +1,17 @@
+body {
+  width: 100vw;
+}
+
+h6 {
+  margin: 0;
+}
+.container {
+  display: flex;
+}
+.ship {
+  border: 1px solid rebeccapurple;
+  width: 50vw;
+}
+img {
+  width: 50vw;
+}
